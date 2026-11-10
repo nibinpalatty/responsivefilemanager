@@ -1,0 +1,20 @@
+# Composer dependencies (run `composer install` to restore)
+/vendor/
+
+# Uploaded files and generated thumbnails
+/source/*
+/thumbs/*
+
+# Editor and IDE files
+/.idea/
+/.vscode/
+*.code-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs and environment files
+*.log
+.env
